@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AP Chemistry Premium, 2024 6 Practice _66fc73</name>
+   <tag></tag>
+   <elementGuidId>46a10acf-b42a-416a-8642-f23b3f4af585</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/div/div/div/span/div/div[2]/div/div/div/div/span/div/div/div[2]/div/h2/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-size-base-plus.a-color-base.a-text-normal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0aa0f4c9-b0ef-4aea-8bc0-a5e850501fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-base-plus a-color-base a-text-normal</value>
+      <webElementGuid>43a39297-8f5c-44eb-9abe-4405529aca8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AP Chemistry Premium, 2024: 6 Practice Tests + Comprehensive Review + Online Practice (Barron's AP)</value>
+      <webElementGuid>0094ef23-97ef-4373-994b-0a56333014d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/div[@class=&quot;s-desktop-width-max s-desktop-content s-opposite-dir s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-matching-dir sg-col-16-of-20 sg-col sg-col-8-of-12 sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/span[@class=&quot;rush-component s-latency-cf-section&quot;]/div[@class=&quot;s-main-slot s-result-list s-search-results sg-row&quot;]/div[@class=&quot;sg-col-4-of-24 sg-col-4-of-12 s-result-item s-asin sg-col-4-of-16 AdHolder sg-col s-widget-spacing-small sg-col-4-of-20&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=MAIN template=SEARCH_RESULTS widgetId=search-results_1&quot;]/div[@class=&quot;rush-component s-expand-height&quot;]/div[@class=&quot;rush-component s-featured-result-item s-expand-height&quot;]/span[@class=&quot;a-declarative&quot;]/div[@class=&quot;puis-card-container s-card-container s-overflow-hidden aok-relative puis-expand-height puis-include-content-margin puis puis-v2rh3j15wdcp4q29xeaptoa72x6 s-latency-cf-section puis-card-border&quot;]/div[@class=&quot;a-section a-spacing-base&quot;]/div[@class=&quot;a-section a-spacing-small puis-padding-left-small puis-padding-right-small&quot;]/div[@class=&quot;a-section a-spacing-none a-spacing-top-small s-title-instructions-style&quot;]/h2[@class=&quot;a-size-mini a-spacing-none a-color-base s-line-clamp-4&quot;]/a[@class=&quot;a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal&quot;]/span[@class=&quot;a-size-base-plus a-color-base a-text-normal&quot;]</value>
+      <webElementGuid>41ad3c36-be86-4313-a206-016c04a9cabb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/div/div/div/span/div/div[2]/div/div/div/div/span/div/div/div[2]/div/h2/a/span</value>
+      <webElementGuid>0725bbd7-5a57-4aae-8a0b-4321b9ca6ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a/span</value>
+      <webElementGuid>d54c4e51-c0e4-47c3-b305-cee401d3f8a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;AP Chemistry Premium, 2024: 6 Practice Tests + Comprehensive Review + Online Practice (Barron&quot; , &quot;'&quot; , &quot;s AP)&quot;) or . = concat(&quot;AP Chemistry Premium, 2024: 6 Practice Tests + Comprehensive Review + Online Practice (Barron&quot; , &quot;'&quot; , &quot;s AP)&quot;))]</value>
+      <webElementGuid>153fee43-dbb1-4a47-a50f-8e7af2f931b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
