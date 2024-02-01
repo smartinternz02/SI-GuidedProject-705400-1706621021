@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Signup_Test Suite,Chrome 120.0.0.0,,,31-01-2024 18:29:38,31-01-2024 18:31:14,1m - 36.212s,PASSED
+,,,,,,,
+Test Cases/Testing_Modes/By_Record_web/Amazon_Signup_TC_001,Chrome 120.0.0.0,,,31-01-2024 18:29:38,31-01-2024 18:31:14,1m - 36.067s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 120.0.0.0,,,31-01-2024 18:29:38,31-01-2024 18:29:39,0.430s,ERROR
+"openBrowser("""")",Chrome 120.0.0.0,,,31-01-2024 18:29:39,31-01-2024 18:29:41,2.042s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 120.0.0.0,,,31-01-2024 18:29:41,31-01-2024 18:29:44,3.396s,PASSED
+"click(findTestObject(""Amazon_Signup_TC_001/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 120.0.0.0,,,31-01-2024 18:29:44,31-01-2024 18:30:37,52.694s,PASSED
+"click(findTestObject(""Amazon_Signup_TC_001/Page_Amazon Sign-In/a_Create your Amazon account""))",Chrome 120.0.0.0,,,31-01-2024 18:30:37,31-01-2024 18:30:50,12.994s,PASSED
+"setText(findTestObject(""Amazon_Signup_TC_001/Page_Amazon Registration/input_customerName""), ""Narendra Singh"")",Chrome 120.0.0.0,,,31-01-2024 18:30:50,31-01-2024 18:30:54,3.783s,PASSED
+"setText(findTestObject(""Amazon_Signup_TC_001/Page_Amazon Registration/input_email""), ""nru08028@gmail.com"")",Chrome 120.0.0.0,,,31-01-2024 18:30:54,31-01-2024 18:30:58,3.937s,PASSED
+"setEncryptedText(findTestObject(""Amazon_Signup_TC_001/Page_Amazon Registration/input_password""), ""G74V49Pg4522B1vm99sENQ=="")",Chrome 120.0.0.0,,,31-01-2024 18:30:58,31-01-2024 18:31:00,2.051s,PASSED
+"setEncryptedText(findTestObject(""Amazon_Signup_TC_001/Page_Amazon Registration/input_passwordCheck""), ""G74V49Pg4522B1vm99sENQ=="")",Chrome 120.0.0.0,,,31-01-2024 18:31:00,31-01-2024 18:31:02,1.936s,PASSED
+"click(findTestObject(""Amazon_Signup_TC_001/Page_Amazon Registration/inputcontinue""))",Chrome 120.0.0.0,,,31-01-2024 18:31:02,31-01-2024 18:31:14,12.454s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,31-01-2024 18:31:14,31-01-2024 18:31:14,0.188s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,31-01-2024 18:31:14,31-01-2024 18:31:14,0.042s,ERROR
