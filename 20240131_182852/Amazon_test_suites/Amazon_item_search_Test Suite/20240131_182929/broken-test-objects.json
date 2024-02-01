@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/TL_Amazon_add_to_cart_TC001/Page_Amazon.com Shopping Cart/a_Sign Out",
+      "brokenLocator": "//a[@onclick\u003d\"$Nav.getNow(\u0027signInRedirect\u0027)(\u0027nav_em_hd_re_signin\u0027, \u0027/gp/flex/sign-out.html?action\u003dsign-out\u0026path\u003d%2Fgp%2Fhomepage.html%3F_encoding%3DUTF8%26ref_%3Dnavm_em_signin\u0026signIn\u003d1\u0026useRedirectOnSuccess\u003d1\u0026ref_\u003dnav_em_signout_0_1_1_39\u0027, \u0027nav_em_hd_clc_signin_0_1_1_39\u0027)\"]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027hmenu-content\u0027]/ul/li[25]/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240131_182852/Amazon_test_suites/Amazon_item_search_Test Suite/20240131_182929/Object Repository/TL_Amazon_add_to_cart_TC001/Page_Amazon.com Shopping Cart/a_Sign Out_idRelative.png"
+    }
+  ]
+}

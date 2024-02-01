@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_item_search_Test Suite,Chrome 120.0.0.0,,,31-01-2024 18:25:13,31-01-2024 18:25:44,31.094s,PASSED
+,,,,,,,
+Test Cases/Testing_Modes/By_Record_web/Amazon_item_search_TC003,Chrome 120.0.0.0,,,31-01-2024 18:25:13,31-01-2024 18:25:44,30.912s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 120.0.0.0,,,31-01-2024 18:25:13,31-01-2024 18:25:14,0.591s,ERROR
+"openBrowser("""")",Chrome 120.0.0.0,,,31-01-2024 18:25:14,31-01-2024 18:25:16,1.922s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 120.0.0.0,,,31-01-2024 18:25:16,31-01-2024 18:25:18,1.780s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_item_search_TC003/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Da vinci code"")",Chrome 120.0.0.0,,,31-01-2024 18:25:18,31-01-2024 18:25:29,10.802s,PASSED
+"click(findTestObject(""Object Repository/Amazon_item_search_TC003/Page_Amazon.com  Da vinci code/inputnav-search-submit-button""))",Chrome 120.0.0.0,,,31-01-2024 18:25:29,31-01-2024 18:25:34,5.394s,PASSED
+"click(findTestObject(""Object Repository/Amazon_item_search_TC003/Page_Amazon.com  Da vinci code/span_The Da Vinci Code (Robert Langdon)""))",Chrome 120.0.0.0,,,31-01-2024 18:25:34,31-01-2024 18:25:44,10.011s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,31-01-2024 18:25:44,31-01-2024 18:25:44,0.257s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,31-01-2024 18:25:44,31-01-2024 18:25:44,0.048s,ERROR
