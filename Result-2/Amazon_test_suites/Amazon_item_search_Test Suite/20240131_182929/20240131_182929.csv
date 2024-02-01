@@ -1,9 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-Amazon_item_search_Test Suite,Chrome 120.0.0.0,,,31-01-2024 18:29:47,31-01-2024 18:31:30,1m - 43.534s,FAILED
-,,,,,,,
-Test Cases/Testing_Modes/By_Record_web/Amazon_item_search_TC003,Chrome 120.0.0.0,,,31-01-2024 18:29:47,31-01-2024 18:31:30,1m - 43.351s,FAILED
-Start listener action : sampleBeforeTestCase,Chrome 120.0.0.0,,,31-01-2024 18:29:47,31-01-2024 18:29:47,0.527s,ERROR
-"openBrowser("""")",Chrome 120.0.0.0,,,31-01-2024 18:29:47,31-01-2024 18:29:49,1.750s,PASSED
-"navigateToUrl(""https://www.amazon.com/"")",Chrome 120.0.0.0,,,31-01-2024 18:29:49,31-01-2024 18:29:52,3.282s,PASSED
-"setText(findTestObject(""Object Repository/Amazon_item_search_TC003/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Da vinci code"")",Chrome 120.0.0.0,,,31-01-2024 18:29:52,31-01-2024 18:30:27,34.570s,FAILED
-Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,31-01-2024 18:30:27,31-01-2024 18:31:30,1m - 3.104s,ERROR
